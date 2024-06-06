@@ -8,7 +8,7 @@ jobs:
       matrix:
         # os: [ubuntu-latest, macos-latest, macos-11]
         # os: [macos-latest, macos-13, macos-14, flyci-macos-large-latest-m1]
-        os: [macos-latest]
+        os: [macos-latest, ubuntu-latest]
 
     steps:
 
